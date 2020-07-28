@@ -1,5 +1,8 @@
 this is aa.txt file
 kkk
 when is this?
+print all the names in RED
+AND to do that you have to clear your desk
+if possible
 thesis --> is wonderful.
 where is this one == yes?
