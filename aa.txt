@@ -5,4 +5,8 @@ yes yes
 when is this?
 thesis --> is wonderfulness.
 where is this one == yes?
+<<<<<<< HEAD
 hahah
+=======
+how the day was?
+>>>>>>> 79023ab8e741cd6cde8c2ac723b9c59e7a8c3f2e
